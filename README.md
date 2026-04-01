@@ -4,7 +4,7 @@ This project is a responsive clone of the Amazon shopping website interface, cre
 
 ## 🚀 Features
 
-* Responsive design for mobile and desktop
+* Responsive design for mobile and desktop 
 * Amazon-like navigation bar
 * Product grid layout
 * Clean and modern UI
